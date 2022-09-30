@@ -2,6 +2,8 @@
 
 ## Exercices git-intro
 
+30 sept 2022.
+
 Ajout de journal-de-bord.md via le dépôt puis répercuter les changements avec 
 `$ git pull` ou
 `$ git fetch`
