@@ -6,7 +6,11 @@ Ajout de journal-de-bord.md via le dépôt puis répercuter les changements avec
 `$ git pull` ou
 `$ git fetch`
 Modificatin du journal de bord via l'éditeur de texte et pour synchroniser vers le dépôt il faudra ensuite 
-`$ git add 
+```
+$ git add 
 $ git commit
-$ git push`
+$ git push
+```
+**Remarque : il faut un token parce que le _password authentification_ a été enlévé.**
 
+Ajout du Markdown cheat sheet pour pouvoir le retrouver plus facilement.
