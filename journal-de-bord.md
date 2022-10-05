@@ -16,3 +16,10 @@ $ git push
 **Remarque : il faut un token parce que le _password authentification_ a été enlévé.**
 
 Ajout du Markdown cheat sheet pour pouvoir le retrouver plus facilement.
+
+---
+
+05 oct 2022.
+
+Composition du groupe : Amina, Yasmine, Tifanny (moi-même).
+Langues : Anglais, Vietnamien et ?
