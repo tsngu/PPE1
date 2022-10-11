@@ -30,3 +30,5 @@ Langues : Anglais, Vietnamien et ?
 Clé : `$ cat ~/.ssh/id_ed25519.pub`
 
 Tag : `$ git tag NOM -a -m MESSAGE`
+
+I AM ERROR
