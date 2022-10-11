@@ -1,8 +1,9 @@
 # Journal de bord du projet encadré.
 
-## Exercices git-intro
 
-30 sept 2022.
+## 30 sept 2022.
+
+### Exercices git-intro
 
 Ajout de journal-de-bord.md via le dépôt puis répercuter les changements avec 
 `$ git pull` ou
@@ -20,7 +21,7 @@ Ajout du Markdown cheat sheet pour pouvoir le retrouver plus facilement.
 
 ---
 
-05 oct 2022.
+## 05 oct 2022.
 
 Composition du groupe : Amina, Yasmine, Tifanny (moi-même).
 
@@ -29,5 +30,3 @@ Langues : Anglais, Vietnamien et ?
 Clé : `$ cat ~/.ssh/id_ed25519.pub`
 
 Tag : `$ git tag NOM -a -m MESSAGE`
-
-Exercices.
