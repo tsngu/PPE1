@@ -31,6 +31,8 @@ Clé : `$ cat ~/.ssh/id_ed25519.pub`
 
 Tag : `$ git tag NOM -a -m MESSAGE`
 
-
-
 ### Exercices git-II
+
+Commande pour récupérer ID SHA `$ git log`.
+
+Défaire le commit avec `$ git revert <SHA>`. Beaucoup de pbs avec cette commande : "unmerged path files". Je n'ai pas trouvé la solution au problème, il faut supprimer les ajouts à la main(??)
