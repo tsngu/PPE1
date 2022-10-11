@@ -7,7 +7,8 @@
 Ajout de journal-de-bord.md via le dépôt puis répercuter les changements avec 
 `$ git pull` ou
 `$ git fetch`
-Modificatin du journal de bord via l'éditeur de texte et pour synchroniser vers le dépôt il faudra ensuite 
+
+Modification du journal de bord via l'éditeur de texte et pour synchroniser vers le dépôt il faudra ensuite
 ```
 $ git add 
 $ git commit
@@ -22,4 +23,11 @@ Ajout du Markdown cheat sheet pour pouvoir le retrouver plus facilement.
 05 oct 2022.
 
 Composition du groupe : Amina, Yasmine, Tifanny (moi-même).
+
 Langues : Anglais, Vietnamien et ?
+
+Clé : `$ cat ~/.ssh/id_ed25519.pub`
+
+Tag : `$ git tag NOM -a -m MESSAGE`
+
+Exercices.
