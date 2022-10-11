@@ -31,10 +31,13 @@ Clé : `$ cat ~/.ssh/id_ed25519.pub`
 
 Tag : `$ git tag NOM -a -m MESSAGE`
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 I AM ERROR
 
 ### Exercices git-II
 
+=======
+>>>>>>> parent of 5345b14 (I AM ERROR)
 =======
 >>>>>>> parent of 5345b14 (I AM ERROR)
