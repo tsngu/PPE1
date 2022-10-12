@@ -36,3 +36,11 @@ Tag : `$ git tag NOM -a -m MESSAGE`
 Commande pour récupérer ID SHA `$ git log`.
 
 Défaire le commit avec `$ git revert <SHA>`. Beaucoup de pbs avec cette commande : "unmerged path files". Je n'ai pas trouvé la solution au problème, il faut supprimer les ajouts à la main(??)
+
+---
+
+## 12 oct 2022.
+
+Ajout du premier script.sh dans le dépôt.
+
+J'ai aussi reclôné le git dans mon pc avec la clé SSH afin de pouvoir y accéder sans token.
