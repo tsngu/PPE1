@@ -25,7 +25,7 @@ Ajout du Markdown cheat sheet pour pouvoir le retrouver plus facilement.
 
 Composition du groupe : Amina, Yasmine, Tifanny (moi-même).
 
-Langues : Anglais, Vietnamien et ?
+Langues : Anglais, Vietnamien et Créole Mauricien.
 
 Clé : `$ cat ~/.ssh/id_ed25519.pub`
 
