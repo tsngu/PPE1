@@ -44,3 +44,16 @@ Défaire le commit avec `$ git revert <SHA>`. Beaucoup de pbs avec cette command
 Ajout du premier script.sh dans le dépôt.
 
 J'ai aussi reclôné le git dans mon pc avec la clé SSH afin de pouvoir y accéder sans token.
+
+---
+
+## 19 oct 2022.
+
+Absente.
+J'ai rattrapé les cours (cURL)
+
+---
+
+## 26 oct 2022.
+
+
