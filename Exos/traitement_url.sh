@@ -21,10 +21,31 @@ echo "Les deux paramètres n'existent pas"
 exit
 fi
 
+#Récupérer code de réponse avec cut -d (delimiter) et -f (field)#
+
+#curl -I url | grep HTTP | cut -d ' ' -f 2
+
 # modifier la ligne suivante pour créer effectivement du HTML
-echo "Je dois devenir du code HTML à partir de la question 3" > $fichier_tableau
+echo "<html>
+
+    <header>
+        <meta charset="UTF-8" />
+    </header>
+
+<body>
+    <table>
+        <tr> <td> N° </td> <td> Code de retour </td> <td> URL </td> </tr>" > $fichier_tableau
 
 lineno=1;
+while read -r line;
+do
+    CODE_URL = $(curl -I url | grep HTTP | cut -d ' ' -f 2)
+    URL = $line
+    echo "<tr><td>$lineno</td><td>$CODE_URL</td><td>$URL</td></tr>" >> $fichier_tableau
+    lineno = $((lineno+1));
+done < $fichier_urls
+
+echo "</table></body></html>" >> $fichier_tableau
 
 while read -r line;
 do
