@@ -54,6 +54,9 @@ J'ai rattrapé les cours (cURL)
 
 ---
 
-## 26 oct 2022.
+## 09 nov 2022.
+
+Ajout d'une page index.html sur le site et démarrage d'un site web et essai d'ajout d'un lien vers une autre page html nommée "Tableaux".
+
 
 
