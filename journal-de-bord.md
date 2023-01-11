@@ -110,3 +110,7 @@ Je me suis occupée du début de la page d'accueil ainsi que de la partie "Conte
 J'ai plus travaillé la nuit pour pouvoir corriger sans casser le travail des filles.
 
 Après une nuit blanche, ou deux, nous avons enfin fini.
+
+### 11 janvier, 21:26, bientôt la fin.
+
+J'ai juste update le tableau url mais sans aucun token, contexte, ni rien. Juste un petit tableau.
